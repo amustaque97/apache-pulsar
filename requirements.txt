@@ -1,0 +1,16 @@
+apache-bookkeeper-client==4.17.1
+certifi==2025.4.26
+charset-normalizer==3.4.2
+fastavro==1.10.0
+grpcio==1.71.0
+idna==3.10
+prometheus_client==0.21.1
+protobuf==3.20.3
+pulsar-client==3.6.1
+pymmh3==0.0.5
+pytz==2025.2
+ratelimit==2.2.1
+requests==2.32.3
+ruff==0.11.9
+six==1.17.0
+urllib3==2.4.0
